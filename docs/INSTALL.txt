@@ -1,0 +1,39 @@
+MightyScroll — MAKOTO LAB
+
+English
+1. Quit any existing MightyScroll instance before replacing it.
+2. Drag MightyScroll.app into Applications, then open it from Applications.
+3. This release is ad-hoc signed and is not notarized by Apple. If macOS
+   blocks it, follow Apple's instructions after confirming that you downloaded
+   it from the official repository:
+   https://support.apple.com/en-us/102445
+   Try opening the app, then check System Settings > Privacy & Security
+   for Open Anyway.
+4. Allow Accessibility access in System Settings > Privacy & Security.
+   Input Monitoring may also be needed for raw wheel input.
+5. Adjust your mouse through the menu bar icon. Keep your trackpad's preferred
+   scrolling direction in macOS. Launch at login can be toggled in settings.
+
+Requires macOS 13.5 or later. Includes Apple silicon and Intel binaries.
+Tested on the developer's Apple silicon Mac with an A1197 Mighty Mouse.
+Intel hardware has not been tested.
+
+繁體中文
+1. 更新前，先結束正在執行的 MightyScroll。
+2. 將 MightyScroll.app 拖進 Applications，再從「應用程式」開啟。
+3. 此版本使用本機簽章，尚未經 Apple 公證。若 macOS 阻擋開啟，
+   確認是從官方專案下載後，可參考 Apple 的說明：
+   https://support.apple.com/en-us/102445
+   先嘗試開啟，再到「系統設定 → 隱私權與安全性」查看「強制打開」。
+4. 授權「輔助使用」，原始滾輪輸入可能也需要「輸入監控」。
+5. 透過選單列圖示調整滑鼠，macOS 保留慣用的觸控板方向。
+   可在程式設定中切換「登入時啟動」。
+
+需要 macOS 13.5 以上，包含 Apple silicon 與 Intel 執行檔。
+已在開發者的 Apple silicon Mac 搭配 A1197 Mighty Mouse 實機測試；
+Intel 硬體尚未測試。
+
+GitHub: https://github.com/lancer1234/MightyScroll
+Instagram: https://www.instagram.com/d.wang___/
+Support: https://buymeacoffee.com/MakotoLab
+License: MIT

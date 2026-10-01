@@ -9,7 +9,7 @@ MightyScroll is a free, open-source macOS menu bar app for the Apple Mighty Mous
 Developed independently by **MAKOTO LAB**.
 
 <p>
-  <a href="https://github.com/lancer1234/MightyScroll/archive/refs/heads/main.zip"><img alt="Download MightyScroll source code" src="https://img.shields.io/badge/Download-Source%20Code-2ea44f?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/lancer1234/MightyScroll/releases/download/v0.4.1/MightyScroll-0.4.1-universal.dmg"><img alt="Download MightyScroll 0.4.1 DMG for macOS" src="https://img.shields.io/badge/Download-v0.4.1%20DMG-2ea44f?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://buymeacoffee.com/MakotoLab"><img alt="Support MAKOTO LAB on Buy Me a Coffee" src="https://img.shields.io/badge/Support-MAKOTO%20LAB-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"></a>
   <a href="https://www.instagram.com/d.wang___/"><img alt="Instagram @d.wang___" src="https://img.shields.io/badge/Instagram-%40d.wang______-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
@@ -26,14 +26,14 @@ Developed independently by **MAKOTO LAB**.
 
 ## Getting started
 
-Requires **macOS 13.5 or later** and **Xcode**. The app is currently distributed as source code.
+Requires **macOS 13.5 or later**. The DMG includes Apple silicon and Intel binaries; Intel hardware has not yet been tested. No Xcode is needed to install it.
 
-1. Download or clone this repository and open `MightyScroll.xcodeproj` in Xcode.
-2. Select **MightyScroll → My Mac** and build the app. Move the built `MightyScroll.app` to **Applications**, then open it there.
+1. [Download the DMG](https://github.com/lancer1234/MightyScroll/releases/download/v0.4.1/MightyScroll-0.4.1-universal.dmg), open it, and drag **MightyScroll** into **Applications**. Quit the existing app before replacing it when updating.
+2. Open MightyScroll from Applications. This release is not notarized by Apple. If macOS blocks it, follow [Apple’s opening instructions](https://support.apple.com/en-us/102445) after confirming the download came from this repository.
 3. Allow **Accessibility** access in **System Settings → Privacy & Security**. Input Monitoring may also be needed for raw wheel input.
 4. Keep your preferred trackpad direction in macOS, then adjust your mouse through MightyScroll’s menu bar icon.
 
-You can control automatic startup with **Launch at Login** in the app’s settings.
+You can control automatic startup with **Launch at Login** in the app’s settings. To build from source with Xcode, see the [developer notes](docs/DEVELOPMENT.md).
 
 ## Common questions
 

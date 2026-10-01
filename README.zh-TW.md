@@ -9,7 +9,7 @@ MightyScroll 是免費開源的 macOS 選單列工具，為 Apple Mighty Mouse �
 由 **MAKOTO LAB** 獨立開發。
 
 <p>
-  <a href="https://github.com/lancer1234/MightyScroll/archive/refs/heads/main.zip"><img alt="Download MightyScroll source code" src="https://img.shields.io/badge/Download-Source%20Code-2ea44f?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/lancer1234/MightyScroll/releases/download/v0.4.1/MightyScroll-0.4.1-universal.dmg"><img alt="Download MightyScroll 0.4.1 DMG for macOS" src="https://img.shields.io/badge/Download-v0.4.1%20DMG-2ea44f?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://buymeacoffee.com/MakotoLab"><img alt="Support MAKOTO LAB on Buy Me a Coffee" src="https://img.shields.io/badge/Support-MAKOTO%20LAB-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"></a>
   <a href="https://www.instagram.com/d.wang___/"><img alt="Instagram @d.wang___" src="https://img.shields.io/badge/Instagram-%40d.wang______-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
@@ -26,14 +26,14 @@ MightyScroll 是免費開源的 macOS 選單列工具，為 Apple Mighty Mouse �
 
 ## 開始使用
 
-需要 **macOS 13.5 以上**與 **Xcode**。目前提供原始碼，需自行建置。
+需要 **macOS 13.5 以上**。DMG 包含 Apple silicon 與 Intel 版本；Intel 硬體尚未實機測試。安裝不需要 Xcode。
 
-1. 下載或複製這個專案，使用 Xcode 開啟 `MightyScroll.xcodeproj`。
-2. 選擇 **MightyScroll → My Mac** 並建置，將產生的 `MightyScroll.app` 放進「應用程式」，再從那裡開啟。
+1. [下載 DMG](https://github.com/lancer1234/MightyScroll/releases/download/v0.4.1/MightyScroll-0.4.1-universal.dmg)，開啟後將 **MightyScroll** 拖進 **Applications**。更新時請先結束原本的程式。
+2. 從「應用程式」開啟。此版本尚未經 Apple 公證；若 macOS 阻擋，確認來自此專案後，可依 [Apple 的開啟說明](https://support.apple.com/en-us/102445)，到「隱私權與安全性」查看「強制打開」。
 3. 在「系統設定 → 隱私權與安全性」授權「輔助使用」。原始滾輪輸入可能也需要「輸入監控」。
 4. 在 macOS 保留慣用的觸控板方向，透過 MightyScroll 選單列圖示調整滑鼠。
 
-可在程式設定中切換「登入時啟動」。
+可在程式設定中切換「登入時啟動」。如需使用 Xcode 自行建置，請見[開發筆記](docs/DEVELOPMENT.md)。
 
 ## 常見問題
 

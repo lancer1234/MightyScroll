@@ -12,6 +12,14 @@ xcodebuild -project MightyScroll.xcodeproj \
 
 輸出位於 `.build/Build/Products/Release/MightyScroll.app`。專案預設使用本機 ad-hoc 簽章。
 
+## 打包 DMG
+
+```sh
+./scripts/create-dmg.sh
+```
+
+產生 Apple silicon／Intel Universal App、可拖進 Applications 的 DMG，以及 SHA-256 校驗檔，輸出到 `build/`。可傳入另一個輸出資料夾。預設仍為 ad-hoc 簽章，未經 Apple 公證；Intel 硬體尚未實機測試。
+
 ## 裝置辨識與相容性
 
 以 A1197 無線 Mighty Mouse 作為主要實機開發裝置，已在開發者的 Mac 確認捲動與重新連線後自動恢復；其他滑鼠與所有 macOS 版本尚未全面測試。部分 Mighty Mouse 事件會被回報為連續捲動，因此不能只以連續性區分滑鼠與觸控板。
