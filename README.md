@@ -8,6 +8,12 @@ MightyScroll is a free, open-source macOS menu bar app for the Apple Mighty Mous
 
 Developed independently by **MAKOTO LAB**.
 
+<p>
+  <a href="https://github.com/lancer1234/MightyScroll/archive/refs/heads/main.zip"><img alt="Download MightyScroll source code" src="https://img.shields.io/badge/Download-Source%20Code-2ea44f?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://buymeacoffee.com/MakotoLab"><img alt="Support MAKOTO LAB on Buy Me a Coffee" src="https://img.shields.io/badge/Support-MAKOTO%20LAB-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"></a>
+  <a href="https://www.instagram.com/d.wang___/"><img alt="Instagram @d.wang___" src="https://img.shields.io/badge/Instagram-%40d.wang______-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
 ## Features
 
 - Separate scroll directions for your mouse and trackpad.
@@ -53,13 +59,19 @@ For build details, compatibility notes, and troubleshooting, see the [developer 
 
 ## Feedback
 
+<p>
+  <a href="https://github.com/lancer1234/MightyScroll/issues"><img alt="Report a MightyScroll bug" src="https://img.shields.io/badge/GitHub-Report%20a%20Bug-d73a49?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
 Found a problem? [Open an issue](https://github.com/lancer1234/MightyScroll/issues) with your macOS version, mouse model, affected app, and steps to reproduce it.
 
 ## Support MAKOTO LAB
 
 I build MightyScroll in my own time. If it makes your mouse more enjoyable to use, you can help fund development and additional test hardware.
 
-[☕ Buy me a coffee](https://buymeacoffee.com/MakotoLab)
+<p>
+  <a href="https://buymeacoffee.com/MakotoLab"><img alt="Support MAKOTO LAB on Buy Me a Coffee" src="https://img.shields.io/badge/Support-MAKOTO%20LAB-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"></a>
+</p>
 
 Support is optional and does not purchase features or priority support.
 
@@ -69,8 +81,15 @@ MAKOTO LAB is an independent experimental software and hardware studio exploring
 
 You can also explore [Makoto Glass](https://github.com/lancer1234/MakotoGlass-Beta), a project bringing iPhone integration to Google Glass.
 
-[Instagram · @d.wang\_\_\_](https://www.instagram.com/d.wang___/) · [Buy Me a Coffee](https://buymeacoffee.com/MakotoLab)
+<p>
+  <a href="https://www.instagram.com/d.wang___/"><img alt="Instagram @d.wang___" src="https://img.shields.io/badge/Instagram-%40d.wang______-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://buymeacoffee.com/MakotoLab"><img alt="Support MAKOTO LAB on Buy Me a Coffee" src="https://img.shields.io/badge/Support-MAKOTO%20LAB-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"></a>
+</p>
 
 ## License
+
+<p>
+  <a href="LICENSE"><img alt="View MIT License" src="https://img.shields.io/badge/License-MIT-555?style=for-the-badge"></a>
+</p>
 
 [MIT](LICENSE). MightyScroll is an independent project and is not affiliated with Apple.

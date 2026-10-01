@@ -8,6 +8,12 @@ MightyScroll 是免費開源的 macOS 選單列工具，為 Apple Mighty Mouse �
 
 由 **MAKOTO LAB** 獨立開發。
 
+<p>
+  <a href="https://github.com/lancer1234/MightyScroll/archive/refs/heads/main.zip"><img alt="Download MightyScroll source code" src="https://img.shields.io/badge/Download-Source%20Code-2ea44f?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://buymeacoffee.com/MakotoLab"><img alt="Support MAKOTO LAB on Buy Me a Coffee" src="https://img.shields.io/badge/Support-MAKOTO%20LAB-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"></a>
+  <a href="https://www.instagram.com/d.wang___/"><img alt="Instagram @d.wang___" src="https://img.shields.io/badge/Instagram-%40d.wang______-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
 ## 功能
 
 - 滑鼠與觸控板分開設定捲動方向。
@@ -53,13 +59,19 @@ MightyScroll 是免費開源的 macOS 選單列工具，為 Apple Mighty Mouse �
 
 ## 問題回報
 
+<p>
+  <a href="https://github.com/lancer1234/MightyScroll/issues"><img alt="Report a MightyScroll bug" src="https://img.shields.io/badge/GitHub-Report%20a%20Bug-d73a49?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
 遇到問題時，歡迎[提出 Issue](https://github.com/lancer1234/MightyScroll/issues)，附上 macOS 版本、滑鼠型號、測試 App 與重現步驟。
 
 ## 支持 MAKOTO LAB
 
 MightyScroll 是我利用自己的時間開發的專案。如果它讓你的滑鼠更好用，歡迎請我喝杯咖啡，支持後續開發與添購測試硬體。
 
-[☕ Buy me a coffee](https://buymeacoffee.com/MakotoLab)
+<p>
+  <a href="https://buymeacoffee.com/MakotoLab"><img alt="Support MAKOTO LAB on Buy Me a Coffee" src="https://img.shields.io/badge/Support-MAKOTO%20LAB-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"></a>
+</p>
 
 贊助完全自願，不代表購買功能或優先支援。
 
@@ -69,8 +81,15 @@ MAKOTO LAB 是獨立的實驗性軟硬體工作室，探索特殊、已停產與
 
 也歡迎看看 [Makoto Glass](https://github.com/lancer1234/MakotoGlass-Beta)，將 iPhone 整合帶到 Google Glass 的另一個專案。
 
-[Instagram · @d.wang\_\_\_](https://www.instagram.com/d.wang___/) · [Buy Me a Coffee](https://buymeacoffee.com/MakotoLab)
+<p>
+  <a href="https://www.instagram.com/d.wang___/"><img alt="Instagram @d.wang___" src="https://img.shields.io/badge/Instagram-%40d.wang______-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://buymeacoffee.com/MakotoLab"><img alt="Support MAKOTO LAB on Buy Me a Coffee" src="https://img.shields.io/badge/Support-MAKOTO%20LAB-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"></a>
+</p>
 
 ## 授權
+
+<p>
+  <a href="LICENSE"><img alt="View MIT License" src="https://img.shields.io/badge/License-MIT-555?style=for-the-badge"></a>
+</p>
 
 採用 [MIT 授權](LICENSE)。MightyScroll 是獨立專案，與 Apple 無隸屬關係。
